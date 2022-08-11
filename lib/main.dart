@@ -1,5 +1,3 @@
-//CREATED BY CHINMAYA MOHAPATRA
-
 import 'package:calculator/custom_widgets/buttons.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
